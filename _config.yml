@@ -1,8 +1,25 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Sleigh Documentation
+description: Start managing your Santa deployment using Sleigh
 theme: just-the-docs
+color_scheme: sleigh
+
+favicon_ico: "/images/favicon.ico"
+logo: "/images/logo.png"
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
