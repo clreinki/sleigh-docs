@@ -31,7 +31,7 @@ Dokku is the recommended platform, as it allows you complete control over the po
 - **Overview**: A cloud infrastructure provider that supports app hosting through droplets and managed services.
   - DigitalOcean is cheaper than Heroku but not free.
   - Redis support is available but comes with added costs.
-  - Database caching can be used as an alternative.
+  - Database caching used by default
 
 ---
 For more information on deployment and configuration, consult the platform-specific guides.
