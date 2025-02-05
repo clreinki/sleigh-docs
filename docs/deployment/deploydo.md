@@ -14,7 +14,7 @@ This guide will show you how to get up and going with Sleigh quickly by hosting 
 [![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/clreinki/sleigh/tree/main&refcode=fd652045edeb)
 
 - Click Next on the Resources screen
-- On Environment Variables screen, click edit and add a key DJANGO_ALLOWED_HOSTS and put in your desired domain name.  Click Next.
+- On Environment Variables screen, click Next.
 - On Info screen, you may update your region then click Next.
 - Click Create Resources
 - Wait for the first-time build process to complete (~5 minutes)
